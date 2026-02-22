@@ -27,9 +27,7 @@ HTTP Load Balancer
 
 ---
 
-## 🌐
-
-Connect With Me
+## Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sahil-patel-sp/" target="_blank">
