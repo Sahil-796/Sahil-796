@@ -20,6 +20,13 @@
 
 ---
 
+### Experience
+
+**Backend Intern — Hintro AI** · *Mar 2026 – Jun 2026*
+
+Worked across an Electron application, building real-time audio/transcription workflows, desktop infrastructure, backend APIs and a Telnyx-based telephony MVP.
+
+---
 ### Stack
 
 `TypeScript` `Go` `SQL` `JavaScript` `Python`
