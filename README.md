@@ -1,39 +1,33 @@
-<h2 align="center">Sahil Patel</h2>
+<h1 align="center">Sahil Patel</h1>
 
 <p align="center">
-wait for it …
+  <a href="https://www.linkedin.com/in/sahil-patel-sp/">LinkedIn</a> ·
+  <a href="https://x.com/SahilPa82684047">X</a>
 </p>
+
+---
+
+### Projects
+
+| Project                                                 | Description                                                                                                                                                                                                                 |
+| :------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[TMS](https://tms.lucyentlabs.com)**                  | Production multi-tenant transport management system covering LR/LM operations, accounting, billing, GPS tracking, documents, and realtime workflows — currently used by multiple transport businesses in its initial phase. |
+| **[Orqestra](https://github.com/Sahil-796/orqestra)**   | Durable workflow engine where workflows survive crashes, retry themselves, sleep without occupying workers, and fan out across concurrent workers — built lean on Postgres and Bun.                                         |
+| **[Scout](https://github.com/Sahil-796/scout)**         | Competitive intelligence system built around continuous research, interpretation, and persistent memory rather than raw information retrieval.                                                                              |
+| **[seeql](https://github.com/Sahil-796/seeql)**         | SQL simulator with an interactive playground, query parsing, syntax trees, and execution — built to explore how SQL works beyond the editor.                                                                                |
+| **[Golem](https://github.com/Sahil-796/golem)**         | Minimal HTTP load balancer implementing multiple routing algorithms with health checking and concurrent request handling.                                                                                                   |
+| **[ZendraPDF](https://github.com/Sahil-796/ZendraPdf)** | AI-powered PDF generator that grew to 220+ users after launch; currently undergoing a larger revamp.                                                                                                                        |
+
+---
+
+### Stack
+
+`TypeScript` `Go` `SQL` `JavaScript` `Python`
+`Node.js` `Bun` `Nest` `PostgreSQL` `Redis` `MongoDB` `BullMQ` `Next` `Express` `FastAPI`
+`Azure` `Docker` `GitHub Actions` `Cloudflare`
+
+---
 
 <p align="center">
   <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Sahil-796&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D" />
 </p>
-
----
-
-## Explore My Work
-
-<div align="left">
-
-• <a href="https://github.com/Sahil-796/ZendraPdf">ZendraPDF</a>  
-AI-powered PDF Generator  
-
-• <a href="https://github.com/Sahil-796/seeql">seeql</a>  
-SQL Playground  
-
-• <a href="https://github.com/Sahil-796/golem">golem</a>  
-HTTP Load Balancer  
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sahil-patel-sp/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=in&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://x.com/SahilPa82684047" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=X&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
